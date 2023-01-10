@@ -1787,7 +1787,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Recode : https://chat.whatsapp.com/DjjwavcnMdV2kzyGiVFDpI
 `
 }
 exports.tos = (ownernomer) => {
@@ -2459,7 +2459,7 @@ exports.tqto = () =>{
 │○ Mhankbarbar
 │○ Nurutomo
 │○ Rashid
-│○ ZeeoneOfc
+│○ ZeeoneOfc & ARGHA
 │○ Penyedia Module
 ╰❒ And All Support
 `
